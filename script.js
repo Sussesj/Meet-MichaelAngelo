@@ -8,18 +8,18 @@
 // document.write(person + "<br>");
 // document.write(answer + "<br>");	
  
-confirm("The Young Archer takes multiple characters!");
+confirm("Myth or reality, you are in for a journey!");
  
-document.write("He takes the shape of four characters<br>"); 
+// document.write("He takes the shape of four characters<br>"); 
 
-confirm("You want to know who those four characters are?");
+// confirm("You want to know who those four characters are?");
 
-document.write("<strong>A</strong> The Young Archer<br>");
-document.write("<strong>B</strong> The Marble Boy<br>");
-document.write("<strong>C</strong> The Lost Cupid<br>");
-document.write("<strong>D</strong> The neglected Child<br>");
+// document.write("<strong>A</strong> The Young Archer<br>");
+// document.write("<strong>B</strong> The Marble Boy<br>");
+// document.write("<strong>C</strong> The Lost Cupid<br>");
+// document.write("<strong>D</strong> The neglected Child<br>");
  
- var archer = prompt("choose your character, a,b,c or d");
+//  var archer = prompt("choose your character, a,b,c or d");
 //  if(archer ==== a){
 //  	document.write("He is One fusty thing<br>");
 //  }
