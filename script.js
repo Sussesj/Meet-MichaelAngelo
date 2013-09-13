@@ -7,8 +7,16 @@
 // 
 // document.write(person + "<br>");
 // document.write(answer + "<br>");	
- 
-confirm("Myth or reality, you are in for a journey!");
+
+function buttonTheYoungArcher(){
+	document.write("Blas blas blas");
+}
+function buttonTheNeglectedChild(){
+	document.write("Blas blas blas blas blask<br>");
+}
+function buttonTheLostCupid(){
+	document.write("Blas blas blas blas blask<br>");
+}
  
 // document.write("He takes the shape of four characters<br>"); 
 
