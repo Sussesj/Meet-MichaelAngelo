@@ -1,3 +1,3 @@
-Created by Codrops
+Collab, borrowed blueprint. 
 
-Please read more about our license here: http://tympanus.net/codrops/licensing/ 
+Meet Michael Angelo
